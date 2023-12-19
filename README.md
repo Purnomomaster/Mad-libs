@@ -10,7 +10,6 @@ Enter another noun: pizza
 Enter another adjective: delicious
 Enter another adjective: salty
 Enter a plural noun: sausages
-Enter another noun: food
 Enter a number: 10
 Enter a shapes: choped triangles
 Enter a food: tomato
